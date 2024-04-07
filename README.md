@@ -1,4 +1,4 @@
-<h1 align="center"> Bágdex Cards</h1>
+<h1 align="center"> Portal Atlética - UNIP Marquês</h1>
 <p align="center">
   <img src="https://github.com/marlonakio/Portal_Atletica/blob/main/.github/banner.png?raw=true" alt="Logo do Projeto" width="600"/>
 </p>
